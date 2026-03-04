@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1000,
+      "name": "Alice",
+      "email": "alice@test.com"
+    },
+    {
+      "id": 1000,
+      "name": "mary",
+      "email": "adongorowa@gmail.com"
+    }
+  ],
+  "projects": [],
+  "tasks": []
+}
